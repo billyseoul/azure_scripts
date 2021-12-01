@@ -28,3 +28,5 @@ answer_choice () {
         exit
         fi
 }
+
+answer_choice
